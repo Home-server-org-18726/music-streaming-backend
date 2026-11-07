@@ -1,1 +1,3 @@
 This repo triggers a workflow to deploy navidrome server
+
+.
